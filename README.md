@@ -20,13 +20,13 @@ Um projeto interativo de página de boas-vindas com animações e mensagens pers
 ## Como Usar
 
 1. Clone este repositório
-2. Abra o arquivo `welcome.html` em seu navegador
+2. Abra o arquivo `index.html` em seu navegador
 3. Digite seu nome e idade
 4. Clique em "Entrar no Portal" ou pressione Enter
 
 ## Estrutura do Projeto
 
-- `welcome.html` - Estrutura HTML e estilos CSS
+- `index.html` - Estrutura HTML e estilos CSS
 - `script.js` - Lógica JavaScript
 - `.gitignore` - Arquivos e diretórios ignorados pelo Git
 
